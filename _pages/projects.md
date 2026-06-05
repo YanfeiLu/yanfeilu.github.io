@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include toc %}
 
 ## Digital Oneida Verb Conjugator 
 
