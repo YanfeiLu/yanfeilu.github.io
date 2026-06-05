@@ -18,7 +18,7 @@ redirect_from:
 
 ## Invited Talks:
 
-*Arts & Science Teaching & Learning Showcase, University of Toronto, Canada
-    *Writing-Integrated Teaching (WIT) repository for low-stakes writing activities 
-*Linguistics Talks Western, University of Western Ontario, London ON, Canada
-    *An Analysis of Oneida Stop Consonants /t/ and /k/ and their Acquisition by Adult L2 Learners
+* Arts & Science Teaching & Learning Showcase, University of Toronto, Canada
+    * Writing-Integrated Teaching (WIT) repository for low-stakes writing activities 
+* Linguistics Talks Western, University of Western Ontario, London ON, Canada
+    * An Analysis of Oneida Stop Consonants /t/ and /k/ and their Acquisition by Adult L2 Learners
