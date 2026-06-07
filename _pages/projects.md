@@ -20,6 +20,4 @@ redirect_from:
 
 ## Open-Access Multimodal Resources for Language Reclamation
 
-* This project brings together researchers, students, and language communities across Africa and the Americas. Following a community-based research model, we transform traditional story recordings into ReadAlong files, videos, and printable books designed for early childhood literacy and language learning. 
-
-[Click here for the project website](https://sites.google.com/view/storygathering/about)
+* This project brings together researchers, students, and language communities across Africa and the Americas. Following a community-based research model, we transform traditional story recordings into ReadAlong files, videos, and printable books designed for early childhood literacy and language learning. [Click here for the project website](https://sites.google.com/view/storygathering/about)
