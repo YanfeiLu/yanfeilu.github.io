@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Other Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -10,13 +10,16 @@ redirect_from:
 
 ## Digital Oneida Verb Conjugator 
 
-* Collaborated with the Twatati Adult Oneida Language Program and the Canadian Indigenous Languages Technology Project (ILT) team at the National Research Council Canada (NRC) to develop a digital verb conjugator supporting morphological acquisition of Oneida by adult learners
+* Through this project, I collaborated with the Twatati Adult Oneida Language Program and the Canadian Indigenous Languages Technology Project (ILT) team at the National Research Council Canada (NRC) to develop a digital verb conjugator supporting morphological acquisition of Oneida by adult learners
   * Community collaborator: Nancy George
   * Supervisors: Keren Rice and Patrick Littell
-* **Lu, Y.**, Littell, P., & Rice, K. (2024, May). Empowering Oneida language revitalization: Development of an Oneida verb conjugator. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 5757-5767).
+  * More information about the project can be found in [our article] (https://aclanthology.org/2024.lrec-main.511/)
 
 
 
-## Creating language and cultural resources from linguistic data 
+
+## Open-Access Multimodal Resources for Language Reclamation
+
+* This project brings together researchers, students, and language communities across Africa and the Americas. Following a community-based research model, we transform traditional story recordings into ReadAlong files, videos, and printable books designed for early childhood literacy and language learning. 
 
 [Click here for the project website](https://sites.google.com/view/storygathering/about)
