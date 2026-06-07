@@ -13,7 +13,7 @@ redirect_from:
 * Through this project, I collaborated with the Twatati Adult Oneida Language Program and the Canadian Indigenous Languages Technology Project (ILT) team at the National Research Council Canada (NRC) to develop a digital verb conjugator supporting morphological acquisition of Oneida by adult learners
   * Community collaborator: Nancy George
   * Supervisors: Keren Rice and Patrick Littell
-  * More information about the project can be found in [our article] (https://aclanthology.org/2024.lrec-main.511/).
+  * More information about the project can be found in [our article](https://aclanthology.org/2024.lrec-main.511/).
 
 
 
